@@ -51,7 +51,7 @@
         "displayOnLoad": true,
         "browsable": true,
         "remoteData": {
-          "url": "https://jenswinter.github.io/bluehwiesen-magdeburg/assets/data/layer1.json",
+          "url": "https://www.buntewiese-magdeburg.de/assets/data/layer1.json",
           "format": "geojson",
           "dynamic": false
         },
