@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:ci": "ng build --prod --sourceMap=false --baseHref /bluehwiesen-magdeburg/"
+    "build:ci": "ng build --prod --sourceMap=false"
   },
   "private": true,
   "dependencies": {
