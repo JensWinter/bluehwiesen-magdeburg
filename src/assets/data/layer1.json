@@ -3,7 +3,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jakobstraße (Wohnungsgenossenschaft Otto von Guericke eG)",
-      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -17,7 +17,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jakobstraße (Wohnungsgenossenschaft Otto von Guericke eG)",
-      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.guericke.de/|Wohnungsbaugenossenschaft Otto von Guericke eG]]\n\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/jakobstrasse-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -151,7 +151,7 @@
     "type": "Feature",
     "properties": {
       "name": "Ballenstedter Straße (Heimatverein Lemsdorf)",
-      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/ballenstedter-strasse-02-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/ballenstedter-strasse-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -165,7 +165,7 @@
     "type": "Feature",
     "properties": {
       "name": "Ballenstedter Straße (Heimatverein Lemsdorf)",
-      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/ballenstedter-strasse-02-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.facebook.com/heimatverein.lemsdorf|Heimatverein Lemsdorf]]\n\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/ballenstedter-strasse-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -327,7 +327,7 @@
     "type": "Feature",
     "properties": {
       "name": "Wilhelm-Höpfner-Ring",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/wilhelm-hoepfner-ring-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/wilhelm-hoepfner-ring-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -341,7 +341,7 @@
     "type": "Feature",
     "properties": {
       "name": "Wilhelm-Höpfner-Ring",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/wilhelm-hoepfner-ring-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/wilhelm-hoepfner-ring-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -375,7 +375,7 @@
     "type": "Feature",
     "properties": {
       "name": "Uni-Campus Gebäude 7",
-      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://www.buntewiese-magdeburg.de/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://www.buntewiese-magdeburg.de/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -389,7 +389,7 @@
     "type": "Feature",
     "properties": {
       "name": "Uni-Campus Gebäude 7",
-      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.uni-magdeburg.de/|Otto von Guericke Universität Magdeburg]]\n\n24.06.2020{{https://www.buntewiese-magdeburg.de/assets/images/meadows/uni-campus-gebaeude-7-01-sm.jpg|300}}\n\n24.06.2020{{https://www.buntewiese-magdeburg.de/assets/images/meadows/uni-campus-gebaeude-7-02-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -471,7 +471,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jakobstraße",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n16.07.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-04-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n16.07.2020{{https://www.buntewiese-magdeburg.de/assets/images/meadows/jakobstrasse-04-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -485,7 +485,7 @@
     "type": "Feature",
     "properties": {
       "name": "Jakobstraße",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n16.07.2020{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/jakobstrasse-04-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n16.07.2020{{https://www.buntewiese-magdeburg.de/assets/images/meadows/jakobstrasse-04-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -527,7 +527,7 @@
     "type": "Feature",
     "properties": {
       "name": "Askanischer Platz",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n03.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n03.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/askanischer-platz-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -541,7 +541,7 @@
     "type": "Feature",
     "properties": {
       "name": "Askanischer Platz",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n03.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/askanischer-platz-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n03.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/askanischer-platz-02-sm.jpg|300}}\n\n29.06.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/askanischer-platz-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -619,7 +619,7 @@
     "type": "Feature",
     "properties": {
       "name": "Gübser Weg",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n07.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/guebser-weg-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n07.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/guebser-weg-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -633,7 +633,7 @@
     "type": "Feature",
     "properties": {
       "name": "Gübser Weg",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n07.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/guebser-weg-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n07.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/guebser-weg-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -683,7 +683,7 @@
     "type": "Feature",
     "properties": {
       "name": "Auffahrt Magdeburger Ring/Albert-Vater-Straße",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-02-sm.jpg|300}}\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n26.06.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/magdeburger-ring-02-sm.jpg|300}}\n\n26.06.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/magdeburger-ring-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Point",
@@ -697,7 +697,7 @@
     "type": "Feature",
     "properties": {
       "name": "Auffahrt Magdeburger Ring/Albert-Vater-Straße",
-      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-02-sm.jpg|300}}\n\n26.06.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/magdeburger-ring-01-sm.jpg|300}}"
+      "description": "Gepflegt von: [[https://www.magdeburg.de/|Landeshauptstadt Magdeburg]]\n\n26.06.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/magdeburger-ring-02-sm.jpg|300}}\n\n26.06.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/magdeburger-ring-01-sm.jpg|300}}"
     },
     "geometry": {
       "type": "Polygon",
@@ -731,7 +731,7 @@
     "type": "Feature",
     "properties": {
       "name": "Johannes-Göderitz-Straße",
-      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/johannes-goederitz-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/johannes-goederitz-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser"
     },
     "geometry": {
       "type": "Point",
@@ -745,7 +745,7 @@
     "type": "Feature",
     "properties": {
       "name": "Johannes-Göderitz-Straße",
-      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/johannes-goederitz-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/johannes-goederitz-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser"
     },
     "geometry": {
       "type": "Polygon",
@@ -779,7 +779,7 @@
     "type": "Feature",
     "properties": {
       "name": "St.-Josef-Straße",
-      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-02-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/st-josef-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser\n\n25.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/st-josef-strasse-02-sm.jpg|300}}\nFoto: Benjamin Schlosser"
     },
     "geometry": {
       "type": "Point",
@@ -793,7 +793,7 @@
     "type": "Feature",
     "properties": {
       "name": "St.-Josef-Straße",
-      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser\n\n25.07.2020:\n{{https://jenswinter.github.io/bluehwiesen-magdeburg/assets/images/meadows/st-josef-strasse-02-sm.jpg|300}}\nFoto: Benjamin Schlosser"
+      "description": "Gepflegt von: [[https://www.diestadtfelder.de/|Die Stadtfelder Wohnungsgenossenschaft eG]]\n\n25.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/st-josef-strasse-01-sm.jpg|300}}\nFoto: Benjamin Schlosser\n\n25.07.2020:\n{{https://www.buntewiese-magdeburg.de/assets/images/meadows/st-josef-strasse-02-sm.jpg|300}}\nFoto: Benjamin Schlosser"
     },
     "geometry": {
       "type": "Polygon",
