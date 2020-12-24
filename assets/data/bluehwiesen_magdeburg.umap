@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "http://umap.openstreetmap.fr/en/map/bluhwiesen-magdeburg_461825",
+  "uri": "https://umap.openstreetmap.fr/en/map/bluhwiesen-magdeburg_461825",
   "properties": {
     "easing": true,
     "measureControl": null,
@@ -51,7 +51,7 @@
         "displayOnLoad": true,
         "browsable": true,
         "remoteData": {
-          "url": "https://www.buntewiese-magdeburg.de/assets/data/layer1.json",
+          "url": "https://buntewiese-magdeburg.de/assets/data/layer1.json",
           "format": "geojson",
           "dynamic": false
         },
