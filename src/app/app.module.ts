@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './home/home.component';
 import { ImpressumComponent } from './impressum/impressum.component';
 import { PrivacyComponent } from './privacy/privacy.component';
+import { InformationComponent } from './information/information.component';
 
 
 @NgModule({
@@ -12,7 +13,8 @@ import { PrivacyComponent } from './privacy/privacy.component';
     AppComponent,
     HomeComponent,
     ImpressumComponent,
-    PrivacyComponent
+    PrivacyComponent,
+    InformationComponent
   ],
   imports: [
     AppRoutingModule,
