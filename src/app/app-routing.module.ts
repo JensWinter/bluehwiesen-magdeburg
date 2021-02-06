@@ -5,6 +5,7 @@ import { ImpressumComponent } from './impressum/impressum.component';
 import { PrivacyComponent } from './privacy/privacy.component';
 import { InformationComponent } from './information/information.component';
 import { ExamplesComponent } from './examples/examples.component';
+import { LinksComponent } from './links/links.component';
 
 
 const routes: Routes = [
@@ -12,6 +13,7 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'information', component: InformationComponent },
   { path: 'examples', component: ExamplesComponent },
+  { path: 'links', component: LinksComponent },
   { path: 'impressum', component: ImpressumComponent },
   { path: 'privacy', component: PrivacyComponent }
 ];

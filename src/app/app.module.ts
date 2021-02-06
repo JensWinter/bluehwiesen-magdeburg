@@ -7,6 +7,7 @@ import { ImpressumComponent } from './impressum/impressum.component';
 import { PrivacyComponent } from './privacy/privacy.component';
 import { InformationComponent } from './information/information.component';
 import { ExamplesComponent } from './examples/examples.component';
+import { LinksComponent } from './links/links.component';
 
 
 @NgModule({
@@ -16,7 +17,8 @@ import { ExamplesComponent } from './examples/examples.component';
     ImpressumComponent,
     PrivacyComponent,
     InformationComponent,
-    ExamplesComponent
+    ExamplesComponent,
+    LinksComponent
   ],
   imports: [
     AppRoutingModule,
