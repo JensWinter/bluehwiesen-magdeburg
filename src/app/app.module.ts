@@ -6,6 +6,7 @@ import { HomeComponent } from './home/home.component';
 import { ImpressumComponent } from './impressum/impressum.component';
 import { PrivacyComponent } from './privacy/privacy.component';
 import { InformationComponent } from './information/information.component';
+import { ExamplesComponent } from './examples/examples.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { InformationComponent } from './information/information.component';
     HomeComponent,
     ImpressumComponent,
     PrivacyComponent,
-    InformationComponent
+    InformationComponent,
+    ExamplesComponent
   ],
   imports: [
     AppRoutingModule,
