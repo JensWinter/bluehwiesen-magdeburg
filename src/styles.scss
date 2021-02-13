@@ -1,4 +1,19 @@
+
 html,
 body {
-  font-family: 'Open Sans';
+  font-family: 'Crimson Pro';
+  font-size: 20px;
+
+  .title.is-2 {
+    font-size: 3rem;
+  }
+
+  .title.is-3 {
+    font-size: 2.2rem;
+  }
+
+  .subtitle.is-4 {
+    font-size: 1.4rem;
+  }
+
 }
