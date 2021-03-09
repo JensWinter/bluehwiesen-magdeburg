@@ -882,5 +882,33 @@
         ]
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Golfplatz Magdeburg",
+      "description": "Gepflegt von: [[https://www.golfclub-magdeburg.de/|Golfplatz Magdeburg, Marianne Tritz und Johannes Kempmann]]\n\n07.06.2020{{https://buntewiese-magdeburg.de/assets/images/meadows/golfplatz-01-sm.jpg|300}}\n\n07.06.2020{{https://buntewiese-magdeburg.de/assets/images/meadows/golfplatz-02-sm.jpg|300}}\n\n07.06.2020{{https://buntewiese-magdeburg.de/assets/images/meadows/golfplatz-03-sm.jpg|300}}\n\nGröße der Blühwiese: ca. 500 m²\nZu beobachten sind viele Insekten, darunter Schmetterlinge, Taubenschwänzchen sowie Vögel. Die Bienen wohnen beim [[https://www.ottersleber-honig.de/|Imkereibetrieb Haase GbR]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.685958725600477,
+        52.151702262210655
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Golfplatz Magdeburg",
+      "description": "Gepflegt von: [[https://www.golfclub-magdeburg.de/|Golfplatz Magdeburg, Marianne Tritz und Johannes Kempmann]]\n\n07.06.2020{{https://buntewiese-magdeburg.de/assets/images/meadows/golfplatz-01-sm.jpg|300}}\n\n07.06.2020{{https://buntewiese-magdeburg.de/assets/images/meadows/golfplatz-02-sm.jpg|300}}\n\n07.06.2020{{https://buntewiese-magdeburg.de/assets/images/meadows/golfplatz-03-sm.jpg|300}}\n\nGröße der Blühwiese: ca. 500 m²\nZu beobachten sind viele Insekten, darunter Schmetterlinge, Taubenschwänzchen sowie Vögel. Die Bienen wohnen beim [[https://www.ottersleber-honig.de/|Imkereibetrieb Haase GbR]]"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.685958725600477,
+        52.151702262210655
+      ]
+    }
   }
 ]
